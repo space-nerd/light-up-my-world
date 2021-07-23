@@ -1,0 +1,19 @@
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #ffffff;
+  height: 100%
+}
+
+.ui {
+  background-color: #000000;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto;
+  text-align: center;
+}
+
+.brightness {
+  margin: 40px 0 0 0;
+}
+
